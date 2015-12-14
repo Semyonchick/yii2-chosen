@@ -4,7 +4,7 @@
  * @link https://github.com/RomeroMsk
  * @version 1.0.1
  */
-namespace ra\widgets\chosen;
+namespace ra\admin\widgets\chosen;
 
 use yii\web\AssetBundle;
 

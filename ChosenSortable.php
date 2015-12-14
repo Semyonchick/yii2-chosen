@@ -9,8 +9,8 @@
 namespace ra\admin\widgets\chosen;
 
 
-use ra\widgets\chosen\Chosen;
-use ra\widgets\chosen\ChosenAsset;
+use ra\admin\widgets\chosen\Chosen;
+use ra\admin\widgets\chosen\ChosenAsset;
 use yii\helpers\Json;
 
 class ChosenSortable extends Chosen

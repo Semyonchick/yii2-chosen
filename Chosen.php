@@ -4,7 +4,7 @@
  * @link https://github.com/RomeroMsk
  * @version 1.0.0
  */
-namespace ra\widgets\chosen;
+namespace ra\admin\widgets\chosen;
 
 use Yii;
 use yii\helpers\ArrayHelper;
