@@ -1,5 +1,5 @@
 {
-    "name": "nex/yii2-chosen",
+    "name": "rere/yii2-chosen",
     "type": "yii2-extension",
     "description": "Bootstrap Chosen widget for Yii2",
     "keywords": ["yii2", "extension", "widget", "chosen", "bootstrap", "bootstrap 3"],
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nex\\chosen\\": ""
+            "ra\\widgets\\chosen\\": ""
         }
     }
 }

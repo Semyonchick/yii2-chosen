@@ -4,7 +4,7 @@
  * @link https://github.com/RomeroMsk
  * @version 1.0.1
  */
-namespace nex\chosen;
+namespace ra\widgets\chosen;
 
 use yii\web\AssetBundle;
 
@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
  */
 class ChosenAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/nex/yii2-chosen/assets';
+    public $sourcePath = '@ra/widgets/chosen/assets';
 
     public $css = [
         'css/chosen.bootstrap.css'
